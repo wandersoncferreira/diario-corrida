@@ -8,6 +8,7 @@ copyright = "© Copyright Wand's efforts"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
 [permalinks]
   posts = "/:year/:month/:title"
 
@@ -35,12 +36,6 @@ copyright = "© Copyright Wand's efforts"
 
 	# Define words per minute to approximate reading time
 	wpm = 250
-
-	# Stupid footers :)
-	footers = [
-  "Precisa mesmo disso aqui?",
-  "Mas que template chato!"
-	]
 
 	# Github base url
 	github = "https://github.com/wandersoncferreira/diario-corrida
