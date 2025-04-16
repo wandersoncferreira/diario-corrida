@@ -1,7 +1,8 @@
 ---
-title: "About"
-date: 2019-04-19T21:37:58+05:30
-type: "page"
+title: "Primeiro Post"
+date: 2025-01-19
+description: "Meu primeiro post"
+tags: ["corrida"]
 ---
 
 This is some static page where you can write about yourself.
