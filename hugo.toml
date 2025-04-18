@@ -2,17 +2,20 @@ baseURL = 'https://example.org/'
 languageCode = 'pt-BR'
 title = 'Corrida'
 theme = "ink-free"
-paginate = 5
 copyright = "© Copyright Wand's efforts"
+
+[markup.goldmark.renderer]
+unsafe= true
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
 [permalinks]
   posts = "/:year/:month/:title"
 
 [params]
-	subtitle = "Blog sobre o dia-a-dia na corrida. Apenas o que me der na telha de compartilhar porque eu gosto de ler o que eu escrevo depois."
+	subtitle = "Blog sobre o **meu** dia-a-dia na corrida."
 
 	# Optional 64x64 avatar image.
 	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
@@ -36,12 +39,6 @@ copyright = "© Copyright Wand's efforts"
 	# Define words per minute to approximate reading time
 	wpm = 250
 
-	# Stupid footers :)
-	footers = [
-  "Precisa mesmo disso aqui?",
-  "Mas que template chato!"
-	]
-
 	# Github base url
 	github = "https://github.com/wandersoncferreira/diario-corrida"
 
@@ -63,14 +60,9 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Resultados de Provas"
+url = "/resultados_provas"
 weight = 3
-
-[[menu.main]]
-name = "Tags & Stats"
-url = "/tags"
-weight = 4
 
 [[params.social]]
 name = "RSS"
