@@ -172,14 +172,14 @@ Ainda não sei exatamente como explicar como tudo aconteceu, porém foi muito
 claro que eu tive uma habilidade muito boa de me adaptar e realinhar meus
 objetivos conforme a prova ia se desenrolando. Não treinei nada disso.
 
-##### Exemplos de obstáculos
+#### Exemplos de obstáculos
 
-- Problema: No KM 3 ou 4 durante o primeiro cotovelo na Rubem Berta, torci o pé esquerdo.
-- Solução: Corri os próximos 2 KM pouco acima do pace estabelecido para ver se a dor no pé atrapalharia demais
-- Problema: Em algum ponto perto do KM 21 eu comecei a sentir uma dor na sola dos pés. Muito estranho, nunca tive isso.
-- Solução: Entender o que eu estava fazendo que agravava a dor. Notei que ao aumentar a passada eu sentia mais, então foquei em manter uma cadência alta. Não é natural para mim correr pensando na cadência assim, mas foi o que foi.
-- Problema: No KM 38 eu estava com bastante dor em tudo :) E a sola do pé estava bem ruim mesmo. A entrada do último túnel era bem ingrime e eu não "podia" acelerar por conta do pé, mas não tinha força para freiar também.
-- Solução: Pensei nas minhas filhas e desci.
+- <span style="color:red">Problema:</span> No KM 3 ou 4 durante o primeiro cotovelo na Rubem Berta, torci o pé esquerdo.
+- <span style="color:blue">Solução:</span> Corri os próximos 2 KM pouco acima do pace estabelecido para ver se a dor no pé atrapalharia demais
+- <span style="color:red">Problema:</span> Em algum ponto perto do KM 21 eu comecei a sentir uma dor na sola dos pés. Muito estranho, nunca tive isso.
+- <span style="color:blue">Solução:</span> Entender o que eu estava fazendo que agravava a dor. Notei que ao aumentar a passada eu sentia mais, então foquei em manter uma cadência alta. Não é natural para mim correr pensando na cadência assim, mas foi o que foi.
+- <span style="color:red">Problema:</span> No KM 38 eu estava com bastante dor em tudo :) E a sola do pé estava bem ruim mesmo. A entrada do último túnel era bem ingrime e eu não "podia" acelerar por conta do pé, mas não tinha força para freiar também.
+- <span style="color:blue">Solução:</span> Pensei nas minhas filhas e desci.
 
 
 ## Erros e lições

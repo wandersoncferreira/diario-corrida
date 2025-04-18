@@ -7,10 +7,6 @@ copyright = "© Copyright Wand's efforts"
 [markup.goldmark.renderer]
 unsafe= true
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 [permalinks]
   posts = "/:year/:month/:title"
 
