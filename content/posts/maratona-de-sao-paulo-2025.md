@@ -96,7 +96,7 @@ Em Dezembro de 2024 eu tinha como objetivo terminar minha primeira prova de
 google e do desafio de subir a serra. Essa era a minha prova alvo.
 
 <figure>
-<img src="/diario-corrida/estrada_velha_2024.jpeg" width="300" height="650">
+<img src="/diario-corrida/estrada_velha_coros.jpeg" width="300" height="650">
 <figcaption>Nunca estive tão concentrado como nessa prova. Dos 8km de subida, eu subi 5km direto sem parar. Isso foi insano. Resolvi caminhar e as minhas pernas deram uma bela balançada, rapidamente voltei a correr e fui até o final. Fiquei com medo de não terminar caso caminhasse novamente.</figcaption>
 </figure>
 
