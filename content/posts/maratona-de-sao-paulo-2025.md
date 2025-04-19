@@ -7,15 +7,15 @@ tags: ["maratona", "resumo"]
 
 ## Aquecimento
 
-Em Setembro de 2021 eu fiz uma das minhas primeiras caminhadas em busca do
+Em Setembro de 2021 eu fiz uma das primeiras caminhadas em busca do
 emagrecimento. Eu tenho um histórico longo de prática de atividade física, porém
-quando eu entrei na faculdade em 2010, o ingresso se transformou em uma
-oportunidade que eu dediquei 200% do meu foco e tempo para capitalizar em
-diversas áreas. Porém, o esporte não foi uma delas. Parei com tudo... por muito
-tempo.
+quando eu entrei na faculdade em 2010 eu dediquei 200% do meu foco e tempo para capitalizar em
+diversas áreas. 
+
+Porém, o esporte não foi uma delas. Parei com tudo... por muito tempo.
 
 <figure>
-<img src="/caminhada_ibirapuera.jpeg" width="600" height="600">
+<img src="/diario-corrida/caminhada_ibirapuera.jpeg" width="600" height="600">
 <figcaption>Fui levar a Veridiana em uma sessão de fisioterapia pélvica durante o final da gravidez da Laura e aproveitei para iniciar meu projeto de voltar aos esportes</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ Setembro de 2021 foi uma data importante. Eu pesava 103kg e estava decidido a
 voltar para os esportes.
 
 <figure>
-<img src="/peso.jpeg" width="600" height="350">
+<img src="/diario-corrida/peso.jpeg" width="600" height="350">
 <figcaption>Foi lento e bem gradual. Vencer compulsão por doces e ansiedade não foi moleza.</figcaption>
 </figure>
 
@@ -33,8 +33,8 @@ participei de peneiras em diversos times e quando estava para ingressar no
 primeiro ano do ensino médio eu decidi desistir do futebol.
 
 Ainda me mantive ativo nos 3 anos seguintes: Joguei voley como libero, aprendi
-andar de skate e fiquei um tempo excessivo focado em Le Parkour com foco em
-escalada.
+andar de skate e fiquei um tempo excessivo focado em Le Parkour dedicado em
+escaladas.
 
 Toda essa conversa é importante porque eu considero que a minha trajetória para
 a maratona foi "rápida" e não usual. Foram 18 meses do zero a maratona. Não foi
@@ -43,22 +43,25 @@ intencional, mas aconteceu.
 
 ## Primeiro Treino: 10 x 200m
 
-Estamos em Outubro de 2023, e eu já desisti de jogar Tênis também. Eu já estava
+Outubro de 2023, tinha acabado de desistir de jogar Tênis também. Eu já estava
 com um peso corporal mais adequado e estava praticando o esporte há mais de 7 meses. Eu já
 conseguia trocar bolas de fundo com boa qualidade e estava bem feliz com a minha
-evolução. Porém, eu sentia dores constantes nos joelhos. Fiz
-acompanhamento com ortopedista especializado por bastante tempo, porém não teve
+evolução. Porém, eu sentia dores constantes nos joelhos. 
+
+Fiz acompanhamento com ortopedista especializado por bastante tempo, porém não teve
 jeito. Fiz uma infiltração de ácido no joelho e decidi parar.
 
-Aqui começa a minha trajetória na corrida. Até então eu nunca tinha corrido nem
-na esteira para perder peso, eu sempre optei pela bicicleta por medo de sentir
-dores no joelho. Essas dores eram corriqueiras desde a época do futebol.
+Aqui começa a minha trajetória na corrida. 
+
+Até então eu nunca tinha corrido nem na esteira para perder peso, eu sempre
+optei pela bicicleta por medo de sentir dores no joelho. Essas dores eram
+corriqueiras desde a época do futebol.
 
 Entrei na Assessoria Online 1kMais e foi muito bom para eu entender como era um
 treino de corrida estruturado.
 
 <figure>
-<img src="/1kmais.png" width="900" height="500">
+<img src="/diario-corrida/1kmais.png" width="900" height="500">
 <figcaption>Bom, vocês vão notar que eu sou uma maníaco por dados. Essa é toda a minha evolução dentro da assessoria 1kmais.</figcaption>
 </figure>
 
@@ -88,12 +91,12 @@ Notei que os volumes aumentaram consideravelmente, mas senti também que meu
 corpo se adaptava rapidamente ao novo treino. Achei a progressão bem saúdavel e
 quase não impactava meu dia com cansaço excessivo.
 
-Em Dezembro de 2024 eu tinha um objetivo, terminar minha primeira prova de 21km.
-Escolhi a Estrada Velha de Santos somente porque gostei das imagens no google e
-do desafio de subir a serra. Essa era a minha prova alvo.
+Em Dezembro de 2024 eu tinha como objetivo terminar minha primeira prova de
+21km. Escolhi a Estrada Velha de Santos somente porque gostei das imagens no
+google e do desafio de subir a serra. Essa era a minha prova alvo.
 
 <figure>
-<img src="/estrada_velha_2024.jpeg" width="300" height="650">
+<img src="/diario-corrida/estrada_velha_2024.jpeg" width="300" height="650">
 <figcaption>Nunca estive tão concentrado como nessa prova. Dos 8km de subida, eu subi 5km direto sem parar. Isso foi insano. Resolvi caminhar e as minhas pernas deram uma bela balançada, rapidamente voltei a correr e fui até o final. Fiquei com medo de não terminar caso caminhasse novamente.</figcaption>
 </figure>
 
@@ -128,7 +131,7 @@ objetivos. Ficamos em uma média entre 50 e 60km por semana com um pico de
 75km/semana no ciclo inteiro. Achei uma decisão acertada.
 
 <figure>
-<img src="/ciclo_kms.png" width="800" height="400">
+<img src="/diario-corrida/ciclo_kms.png" width="800" height="400">
 <figcaption>Gráfico feito no Runalyze do ciclo completo.</figcaption>
 </figure>
 

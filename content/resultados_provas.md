@@ -5,8 +5,8 @@ type: "page"
 
 # 06/04/2025 <br> Maratona Internacional de São Paulo
 
-<div style="display: flex; padding: 10px">
-<img src="/foto_maratona_sp_2025.jpg"  width="50%" height="auto"">
+<div style="display: flex; padding: 10px; margin: 0px">
+<img src="/diario-corrida/foto_maratona_sp_2025.jpg"  width="390px" height="585px">
 <span style="padding: 10px"> 
 <b>Tempo:</b> 3h19min<br>
 <br>
@@ -24,7 +24,7 @@ TODO
 # 08/12/2024 <br> Track & Field JK Iguatemi III 21KM
 
 <div style="display: flex; padding: 10px; margin: 0px">
-<img style="margin:0px" src="/iguatemi_2024.jpg"  width="390px" height="585px">
+<img style="margin:0px" src="/diario-corrida/iguatemi_2024.jpg"  width="390px" height="585px">
 <span style="padding: 10px"> 
 <b>Tempo:</b> 1:35:37s<br>
 <br>
@@ -42,7 +42,7 @@ TODO
 
 
 <div style="display: flex; padding: 10px; margin: 0px">
-<img style="margin:0px" src="/estrada_velha_2024.jpg"  width="390px" height="585px">
+<img style="margin:0px" src="/diario-corrida/estrada_velha_2024.jpg"  width="390px" height="585px">
 <span style="padding: 10px"> 
 <b>Tempo:</b> 1:55:03s<br>
 <br>
@@ -59,7 +59,7 @@ TODO
 # 14/07/2024 <br> Nike Run SP 15KM
 
 <div style="display: flex; padding: 10px; margin: 0px">
-<img style="margin:0px" src="/nike_run_2024.jpg"  width="390px" height="585px">
+<img style="margin:0px" src="/diario-corrida/nike_run_2024.jpg"  width="390px" height="585px">
 <span style="padding: 10px"> 
 <b>Tempo:</b> 1:09:18s<br>
 <br>
@@ -76,7 +76,7 @@ TODO
 # 07/07/2024 <br> Hoka speed RUN 15KM
 
 <div style="display: flex; padding: 10px; margin: 0px">
-<img style="margin:0px" src="/hoka_speedrun_2024.jpg"  width="390px" height="585px">
+<img style="margin:0px" src="/diario-corrida/hoka_speedrun_2024.jpg"  width="390px" height="585px">
 <span style="padding: 10px"> 
 <b>Tempo:</b> 1:13:14s<br>
 <br>
@@ -93,7 +93,7 @@ TODO
 # 03/03/2024 <br> Track & Field Villa Lobos I 10KM
 
 <div style="display: flex; padding: 10px; margin: 0px">
-<img style="margin:0px" src="/track_field_villa_2024.jpg"  width="390px" height="585px">
+<img style="margin:0px" src="/diario-corrida/track_field_villa_2024.jpg"  width="390px" height="585px">
 <span style="padding: 10px"> 
 <b>Tempo:</b> 0:48:10s<br>
 <br>
@@ -110,7 +110,7 @@ TODO
 # 11/02/2024 <br> Rústica Cabreúva 5KM
 
 <div style="display: flex; padding: 10px; margin: 0px">
-<img style="margin:0px" src="/serra_japi_2024.jpg"  width="390px" height="585px">
+<img style="margin:0px" src="/diario-corrida/serra_japi_2024.jpg"  width="390px" height="585px">
 <span style="padding: 10px"> 
 <b>Tempo:</b> 0:26:15s<br>
 <br>
