@@ -5,6 +5,8 @@ description: "Resumo sobre o ciclo de treinamento e a prova."
 tags: ["maratona", "resumo"]
 ---
 
+Super resumo desse ciclo incrível, somente para incluir essa aventura como primeiro post do diário.
+
 ## Aquecimento
 
 Em Setembro de 2021 eu fiz uma das primeiras caminhadas em busca do
