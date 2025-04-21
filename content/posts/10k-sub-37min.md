@@ -34,8 +34,9 @@ importante. hahaha. Até hoje dou risada disso.
 2. [ ] Manter o volume semanal na faixa dos 60km
 3. [ ] Fazer todas as rodagens complementares no pace de 5'20"/km
 4. [ ] Fazer as corridas leves próximo do limite mais lento proposto pelo Alessandro
-5. [ ] Fortalecimento 3x na semana com foco em força (menos repetições)
-6. [ ] Melhorar hidratação no dia-a-dia
+5. [ ] Fazer 15x100m strides pelo menos 2x na semana
+6. [ ] Fortalecimento 3x na semana com foco em força (menos repetições)
+7. [ ] Melhorar hidratação no dia-a-dia
 
 ## Mais ...
 
