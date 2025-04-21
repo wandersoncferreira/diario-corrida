@@ -81,12 +81,12 @@ TODO
 <b>Tempo:</b> 1:13:14s<br>
 <br>
 <b>Destaque:</b><br>
-TODO
+Não gostei de correr na marginal, o destaque da prova foi conversar com algumas pessoas que estavam no mesmo ritmo que eu. Puxei e fui puxado por algumas pessoas em momentos diferentes da prova.
 <br>
 <br>
 <b>Comentários Gerais:</b><br>
 <br>
-TODO
+Não me animei muito em fazer mais provas na marginal pinheiros e/ou tiete.
 </span>
 </div>
 
