@@ -1,7 +1,7 @@
 ---
 title: "Strides"
-date: 2025-04-21
-description: "O objetivo é acumular 2 horas de corrida em Z4+ 'de graça'."
+date: 2025-04-27
+description: "O objetivo é acumular 2 horas de corrida em Z4+ sem causar danos ao corpo. Por enquanto, os strides são treinos adicionais no meu ciclo, porém com grandes chances de ficarem permanentemente."
 tags: ["stride"]
 ---
 
