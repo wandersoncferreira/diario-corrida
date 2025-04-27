@@ -60,6 +60,11 @@ name = "Resultados de Provas"
 url = "/resultados_provas"
 weight = 3
 
+[[menu.main]]
+name = "Recordes Pessoais"
+url = "/rp"
+weight = 4
+
 [[params.social]]
 name = "RSS"
 icon = "rss"
