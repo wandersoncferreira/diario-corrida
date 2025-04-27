@@ -1,7 +1,7 @@
 ---
 title: "Strides"
 date: 2025-04-21
-description: "Ok"
+description: "O objetivo é acumular 2 horas de corrida em Z4+ 'de graça'."
 tags: ["stride"]
 ---
 
