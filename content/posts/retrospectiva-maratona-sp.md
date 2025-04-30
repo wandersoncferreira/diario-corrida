@@ -167,7 +167,7 @@ Existe um guia mais profundo [aqui](https://www.hrv4training.com/quickstart-guid
 Apesar de ter o HRV4Training, eu não fui muito afundo no app e nem no uso dos dados no site deles, então as medidas que tenho são do COROS e representam o HRV medido durante a noite, ou seja, reflete o estado que meu corpo estava enquanto se recuperava das porradas do dia anterior. :)
 
 <figure>
-<img src="/diaro-corrida/hrv.png" width="800" height="300">
+<img src="/diario-corrida/hrv.png" width="800" height="300">
 </figure>
 
 Como interpretar os dados acima? Basicamente, um decréscimo no rMSSD significa que não estamos recuperados o suficiente ainda, o nível de stress está muito alto. Quando isso ocorre, o HRV4Training recomenda para maneirar durante o dia ou realmente descansar.
