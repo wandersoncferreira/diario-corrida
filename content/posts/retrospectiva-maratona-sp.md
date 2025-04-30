@@ -191,7 +191,7 @@ Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a a
 <img src="/diario-corrida/carga_rmssd.png" width="800" height="300">
 </figure>
 
-Esse gráfico são as médias semanais, diferente da média móvel acima, e de fato é possível observar o aumento da carga de treino quando o rMSSD cai em Março.
+Esse gráfico são as médias semanais, diferente da média móvel anterior, e de fato é possível observar o aumento da carga de treino quando o rMSSD cai em Março.
 
 Para o próximo ciclo pretendo utilizar o app HRV4Training e ver as métricas e sugestões diárias que ele vai reportar.
 
