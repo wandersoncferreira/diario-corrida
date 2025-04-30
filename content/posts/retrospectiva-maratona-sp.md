@@ -9,20 +9,22 @@ tags: ["retrospectiva"]
 
 Eu nunca tive a pretensão de correr a maratona quando iniciei os treinos
 estruturados em 2023. Porém, eu coloquei como objetivo ir vencendo as
-distâncias. Basicamente, fiz uma prova em cada distância a cada 6 meses em
-média. Depois que eu terminei a primeira
-meia-maratona eu tive a ideia: **vou terminar a maratona**.
+distâncias. Então basicamente, fiz uma prova em cada distância a cada 6 meses na
+média. Porém, logo depois que eu terminei as duas primeiras meia-maratonas na
+mesma semana eu tive a ideia: **vou terminar uma maratona**.
 
 O ciclo de maratona também me ensinou muito sobre a parte teórica dos métodos de
-treinamento de corrida. Eu tenho esse problema enraizado: eu preciso de
-engajamento _cognitivo_ para ser capaz de me manter fazendo algo a longo prazo.
+treinamento de corrida porque eu tenho um sério problema em seguir planos sem
+conhecer mais sobre o assunto. Eu preciso de engajamento _cognitivo_ para ser
+capaz de me manter fazendo algo a longo prazo.
 
 Nessa retrospectiva quero analisar os dados do meu ciclo através da plataforma
 [Intervals.icu](https://intervals.icu).
 
 ## Premissas
 
-Eu fiz um exame ergoespirométrico para definir as minhas zonas de treino.
+Eu fiz o exame ergoespirométrico no inicio do ciclo para definir as minhas zonas
+de treino na Sport Ultra com o Dr. Danilo Prado.
 
 Utilizei esses dados para ajustar o TrainingPeaks:
 
@@ -32,9 +34,8 @@ Utilizei esses dados para ajustar o TrainingPeaks:
 
 Porém, durante o teste de 3K da EQPerformance, eu fiz uma média bem controlada
 de 4:00/km para o limiar. E como foram valores próximos, eu mantive o da EQ para
-seguir o processo deles. Porém, tentei fazer os longos próximo do meu limite
+seguir o processo deles. Mas, tentei fazer os longos próximo do meu limite
 aeróbico em um pace de 5:00/km, a maioria ficou em 5:10/km.
-
 
 ## Volume
 
@@ -48,7 +49,7 @@ objetivo foi fazer o **necessario** para os objetivos da prova.
 <img src="/diario-corrida/distancia_total_semanal.png" width="800" height="300">
 </figure>
 
-O pico de volume foram 75 KM na semana. E ficamos próximo de 55 KM nos demais
+O pico de volume foi 75 KM na semana. E fiquei próximo de 55 KM nos demais
 dias. Pelo que eu vejo na internet, não parece um volume alto para ciclo de
 maratona.
 
@@ -58,6 +59,26 @@ quando você tem familia, filhas, amigos, etc. Para um próximo ciclo eu quero
 incluir mais dias de corrida com *rodagens* para completar o volume em ritmo
 aeróbico.
 
+### Altimetria
+
+Eu sabia que a prova tinha uma altimetria desafiadora. O Alessandro planejou
+alguns treinos subindo a rua do cavalo na USP, porém o que eu fiz que me ajudou
+muito foi executar **todos** os meus 3KM de aquecimentos e alguns treinos
+inteiros de rodagens em uma subida próxima do Parque Villa Lobos.
+
+<figure>
+<img src="/rua_bagiru.jpeg" width="800" height="500">
+</figure>
+
+Isso me permitiu acumular uma elevação bem considerável durante o ciclo.
+
+<figure>
+<img src="/climbing.png" width="800" height="400">
+</figure>
+
+Fazendo o gráfico acima percebi uma coincidência interessante. A elevação
+acumulada semanal que eu fiz durante a fase de treino de construção de volume
+foi a mesma acumulada durante a prova.
 
 ### Como esse volume foi executado?
 
@@ -90,7 +111,6 @@ A distribuição de frequência cardíaca:
 inteiro utilizei bastante Z2. Vou considerar que "Z1 e Z2" nesse gráfico
 significa a mesma coisa: *corrida controlada fácil*. O que achei interessante é que o coração subiu para Z3 em algumas ocasiões mas eu não desacelerei porque a minha percepção de esforço continuava a mesma. Por exemplo durante as subidas ou dias muito quentes.
 
-
 ## Musculação
 
 Durante o ciclo eu fui 43 vezes na academia. Foram 28 horas de academia. Nuss...
@@ -118,6 +138,9 @@ Olhando as curvas acima, o peso foi caindo aos poucos até a semana de carb load
 Os dados da fase de carb loading não são acurados porque eu decidi não me pesar. A Roberta me falou que era normal ganhar alguns kilos nessa etapa por causa da agua que fica capturada junto com o carboidrato. Porém, mentalmente eu não queria pensar "você está mais pesado, tem que ajustar as coisas agora.". Ótima decisão.
 
 A prova foi dia 6 de abril e logo depois, meu prêmio chegou.. hehe bastante dinheiro perdido na padaria :)
+
+
+## Sono
 
 
 ## Fitness .. o que realmente importa :)
@@ -169,6 +192,14 @@ que eu ficaria me sentindo uma ameba no dia da prova.
 De fato melhorou bastante nos dias seguintes, mas eu fiquei preocupado e comecei a ir para a academia fazer musculação só para manter o corpo ativo. Nada pesado.
 
 Perceba que a prova levou a minha FORMA do "FRESH" para o "HIGH RISK" em 3h e 19 minutos.
+
+
+### HRV rMSSD
+
+<figure>
+<img src="/hrv.png" width="800" height="400">
+</figure>
+
 
 
 ## Estilo de Treino e próximos passos
