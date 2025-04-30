@@ -67,13 +67,13 @@ muito foi executar **todos** os meus 3KM de aquecimentos e alguns treinos
 inteiros de rodagens em uma subida próxima do Parque Villa Lobos.
 
 <figure>
-<img src="/rua_bagiru.jpeg" width="800" height="500">
+<img src="/diario-corrida/rua_bagiru.jpeg" width="800" height="500">
 </figure>
 
 Isso me permitiu acumular uma elevação bem considerável durante o ciclo.
 
 <figure>
-<img src="/climbing.png" width="800" height="400">
+<img src="/diario-corrida/climbing.png" width="800" height="400">
 </figure>
 
 Fazendo o gráfico acima percebi uma coincidência interessante. A elevação
@@ -142,15 +142,56 @@ A prova foi dia 6 de abril e logo depois, meu prêmio chegou.. hehe bastante din
 
 ## Sono
 
+Eu tenho quadros de insônia com frequência, porém durante o ciclo eu dormir
+razoavelmente bem. Foi uma média entre 6 horas e meia e 7 horas de sono por
+semana. Uma parte consideravel disso é devido ao sono do sabádo para o domingo.
+
 <figure>
-<img src="/sono.png" width="800" height="400">
+<img src="/diario-corrida/sono.png" width="900" height="300">
 </figure>
+
+Mas o interessante é que não houve nenhuma alteração significativa no padrão de sono durante todas as 12 semanas de dados que tenho.
+
+Vou falar um pouco sobre a métrica de rMSSD que cai abruptamente durante a fase de treino específico.
 
 ### HRV rMSSD
 
+Encontrei por acaso o app [HRV4Training](https://www.hrv4training.com/) e como
+bom geek por números me interessei pela história. Existe uma vasta literatura
+academica sobre o uso de HRV para medir stress no corpo e a medida padrão
+difundida na literatura é o rMSSD que é uma medida para capturar a variação
+entre cada batimento cardíaco.
+
+Existe um guia mais profundo [aqui](https://www.hrv4training.com/quickstart-guide.html) explicando como utilizar e interpretar essas medidas.
+
+Apesar de ter o HRV4Training, eu não fui muito afundo no app e nem no uso dos dados no site deles, então as medidas que tenho são do COROS e representam o HRV medido durante a noite, ou seja, reflete o estado que meu corpo estava enquanto se recuperava das porradas do dia anterior. :)
+
 <figure>
-<img src="/hrv.png" width="800" height="400">
+<img src="/diaro-corrida/hrv.png" width="800" height="300">
 </figure>
+
+Como interpretar os dados acima? Basicamente, um decréscimo no rMSSD significa que não estamos recuperados o suficiente ainda, o nível de stress está muito alto. Quando isso ocorre, o HRV4Training recomenda para maneirar durante o dia ou realmente descansar.
+
+Esses dados acima são médias móveis para facilitar a visualização, então contém um pouco de delay com relação ao que estava ocorrendo durante os treinos.
+
+Interessante notar que a primeira queda no rMSSD foi em Fevereiro 16th e talvez
+esteja associada a diminuição nas horas de sono daquelas semanas como mostra a linha azul do gráfico.
+
+Porém o mais interessante é a depressão durante a fase específica dos treinos.
+Bem significativa a queda no parametro. Condiz bem com a realidade da época,
+essa fase eu estava já bem cansado dos volumes altos e iniciando os treinos de
+intensidade.
+
+Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a acréscimo na carga de treino. Vamos ver se essa correlação faz sentido aqui.
+
+<figure>
+<img src="/diario-corrida/carga_rmssd.png" width="800" height="300">
+</figure>
+
+Esse gráfico são as médias semanais, diferente da média móvel acima, e de fato é possível observar o aumento da carga de treino quando o rMSSD cai em Março.
+
+Para o próximo ciclo pretendo utilizar o app HRV4Training e ver as métricas e sugestões diárias que ele vai reportar.
+
 
 ## Fitness .. o que realmente importa :)
 
