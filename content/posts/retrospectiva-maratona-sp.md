@@ -80,6 +80,9 @@ Fazendo o gráfico acima percebi uma coincidência interessante. A elevação
 acumulada semanal que eu fiz durante a fase de treino de construção de volume
 foi a mesma acumulada durante a prova.
 
+Durante a fase de treino específico eu cortei principalmente as rodagens na
+subida.
+
 ### Como esse volume foi executado?
 
 A distribuição de pace:
