@@ -187,8 +187,10 @@ leves e poucos treinos de *Tempo*. Eu concordo com isso 6000%. Enchi muito a
 paciência do Alessandro de que os meus tiros foram todos muito leves.
 
 O valor *1.61* que aparece na imagem acima é um indice para informar o quão
-"polarizado" foi o treinamento. O treino polarizado parece ser hoje uma das
-melhores formas de ganhar performance.
+"polarizado" foi o treinamento. Acima de 2 é considerado polarizado.
+
+O treino polarizado parece ser hoje uma das melhores formas de ganhar
+performance.
 
 > Treino polarizado: Treino facil, fácil e treino difícil, difícil
 
