@@ -174,23 +174,33 @@ Perceba que a prova levou a minha FORMA do "FRESH" para o "HIGH RISK" em 3h e 19
 ## Estilo de Treino e próximos passos
 
 Maravilha. Fiquei bem contente com o treino e o resultado. E acredito que tudo
-esteja muito bem alinhado com a minha percepção ao executar o ciclo. A plataforma *Intervals.icu* faz uma análise macro do ciclo (e também a cada treino) para classificar o tipo de treinamento que você executou.
+esteja muito bem alinhado com a minha percepção ao executar o ciclo. A
+plataforma *Intervals.icu* faz uma análise macro do ciclo (e também a cada
+treino) para classificar o tipo de treinamento que você executou.
 
 <figure>
 <img src="/diario-corrida/estilo_treino.png" width="700" height="400">
 </figure>
 
-O estilo de treino do meu ciclo inteiro foi "Base". O foco foram zonas de treino leves e poucos treinos de *Tempo*. Eu concordo com isso 6000%. Enchi muito a paciência do Alessandro de que os meus tiros foram todos muito leves.
+O estilo de treino do meu ciclo inteiro foi "Base". O foco foram zonas de treino
+leves e poucos treinos de *Tempo*. Eu concordo com isso 6000%. Enchi muito a
+paciência do Alessandro de que os meus tiros foram todos muito leves.
 
-O valor *1.61* que aparece na imagem acima é um indice para informar o quão "polarizado" foi o treinamento. O treino polarizado parece ser hoje uma das melhores formas de ganhar performance.
+O valor *1.61* que aparece na imagem acima é um indice para informar o quão
+"polarizado" foi o treinamento. O treino polarizado parece ser hoje uma das
+melhores formas de ganhar performance.
 
 > Treino polarizado: Treino facil, fácil e treino difícil, difícil
 
-O que eu percebi é que eu não tive treinos rápidos. Focamos bastante no aeróbico nesse ciclo. E isso foi conversado com o Alessandro durante várias oportunidades.
+O que eu percebi é que eu não tive treinos rápidos. Focamos bastante no aeróbico
+nesse ciclo. E isso foi conversado com o Alessandro durante várias
+oportunidades.
 
 Concordei em seguir assim.
 
-Porém, para o próximo ciclo eu queria ter algo mais próximo do "Polarizado".
+Porém, para o próximo ciclo eu queria ter algo mais próximo do "Polarizado", ou
+seja, eu quero fazer ainda um pouco mais lento os treinos leves e focar em fazer
+treinos fortes quando oportuno.
 
 
 ## Agradecimentos
