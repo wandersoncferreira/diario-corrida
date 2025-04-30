@@ -30,12 +30,17 @@ Utilizei esses dados para ajustar o TrainingPeaks:
 <img src="/diario-corrida/ergoespirometrico_2025.png" width="900" height="900">
 </figure>
 
-Tentei fazer os longos próximo do meu limite aeróbico em um pace de 5:00/km.
+Porém, durante o teste de 3K da EQPerformance, eu fiz uma média bem controlada
+de 4:00/km para o limiar. E como foram valores próximos, eu mantive o da EQ para
+seguir o processo deles. Porém, tentei fazer os longos próximo do meu limite
+aeróbico em um pace de 5:00/km, a maioria ficou em 5:10/km.
 
 
 ## Volume
 
-O volume de treino foi mediano. O Alessandro preferiu não aumentar o volume muito para não criar uma memória muscular desnecessária para uma estréia. O objetivo foi fazer o **necessario** para os objetivos da prova.
+O volume de treino foi mediano. O Alessandro preferiu não aumentar o volume
+muito para não criar uma memória muscular desnecessária para uma estréia. O
+objetivo foi fazer o **necessario** para os objetivos da prova.
 
 > Total de 818KM corridos em 110 dias (16 semanas). 72 horas de corrida.
 
@@ -43,9 +48,15 @@ O volume de treino foi mediano. O Alessandro preferiu não aumentar o volume mui
 <img src="/diario-corrida/distancia_total_semanal.png" width="800" height="300">
 </figure>
 
-O pico de volume foram 75 KM na semana. E ficamos próximo de 55 KM nos demais dias. Pelo que eu vejo na internet, não parece um volume alto para ciclo de maratona.
+O pico de volume foram 75 KM na semana. E ficamos próximo de 55 KM nos demais
+dias. Pelo que eu vejo na internet, não parece um volume alto para ciclo de
+maratona.
 
-**Percepção de Esforço:** Eu não tive dificuldade com o volume em nenhum momento, porém o *tempo* necessário para correr todo o volume é bem complicado quando você tem familia, filhas, amigos, etc. Para um próximo ciclo eu quero incluir mais dias de corrida com *rodagens* para completar o volume em ritmo aeróbico.
+**Percepção de Esforço:** Eu não tive dificuldade com o volume em nenhum
+momento, porém o *tempo* necessário para correr todo o volume é bem complicado
+quando você tem familia, filhas, amigos, etc. Para um próximo ciclo eu quero
+incluir mais dias de corrida com *rodagens* para completar o volume em ritmo
+aeróbico.
 
 
 ### Como esse volume foi executado?
