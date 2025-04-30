@@ -30,6 +30,7 @@ Utilizei esses dados para ajustar o TrainingPeaks:
 
 <figure>
 <img src="/diario-corrida/ergoespirometrico_2025.png" width="900" height="900">
+<figcaption>Figura 1. Zonas de treino definidas no Ergoespirométrico.</figcaption>
 </figure>
 
 Porém, durante o teste de 3K da EQPerformance, eu fiz uma média bem controlada
@@ -47,6 +48,7 @@ objetivo foi fazer o **necessario** para os objetivos da prova.
 
 <figure>
 <img src="/diario-corrida/distancia_total_semanal.png" width="800" height="300">
+<figcaption>Figura 2. Volume semanal total.</figcaption>
 </figure>
 
 O pico de volume foi 75 KM na semana. E fiquei próximo de 55 KM nos demais
@@ -68,12 +70,15 @@ inteiros de rodagens em uma subida próxima do Parque Villa Lobos.
 
 <figure>
 <img src="/diario-corrida/rua_bagiru.jpeg" width="800" height="500">
+<figcaption>Figura 3. Rua Bagiru ao lado do parque Villa Lobos. Legal de correr lá antes do parque abrir as 05:30AM. Tem um segurança particular que fica rondando o quarteirão o tempo todo e é razoavelmente iluminado.</figcaption>
 </figure>
 
 Isso me permitiu acumular uma elevação bem considerável durante o ciclo.
 
 <figure>
 <img src="/diario-corrida/climbing.png" width="800" height="400">
+<figcaption>Figura 4. Altimetria do ciclo de treinamento. Somente o treino no Pico do Jaraguá é muito pouco :)</figcaption>
+
 </figure>
 
 Fazendo o gráfico acima percebi uma coincidência interessante. A elevação
@@ -89,6 +94,7 @@ A distribuição de pace:
 
 <figure>
 <img src="/diario-corrida/pace_zones.png" width="300" height="300">
+<figcaption>Figura 5. Zonas de pace do ciclo.</figcaption>
 </figure>
 
 Lembrando que o pace de limiar era 4:00/km.
@@ -108,6 +114,7 @@ A distribuição de frequência cardíaca:
 
 <figure>
 <img src="/diario-corrida/fc_zones.png" width="300" height="300">
+<figcaption>Figura 6. Zonas de frequência cardíaca do ciclo.</figcaption>
 </figure>
 
 **Percepção de Esforço:** Faz bastante sentido esses dados. Eu senti que o ciclo
@@ -130,6 +137,7 @@ Essa parte foi complicada.
 
 <figure>
 <img src="/diario-corrida/peso.png" width="700" height="400">
+<figcaption>Figura 7. No app da Liti eu tenho mais informações sobre o plano alimentar. Também tentei utilizar o app MyFitnessPal em algumas semanas que eu quis entender melhor o que eu estava comendo e causando problemas intestinais. Mas no fim do dia, o peso ajuda a resumir as coisas.</figcaption>
 </figure>
 
 Eu comecei o ciclo com **78KG** e eu queria emagrecer durante o processo. Eu fiz uma dieta junto com a Roberta da Liti e tentei seguir o melhor possível dentro da realidade.
@@ -151,6 +159,7 @@ semana. Uma parte consideravel disso é devido ao sono do sabádo para o domingo
 
 <figure>
 <img src="/diario-corrida/sono.png" width="900" height="300">
+<figcaption>Figura 8. Distribuição dos dados de sono calculados pelo COROS Pace 3.</figcaption>
 </figure>
 
 Mas o interessante é que não houve nenhuma alteração significativa no padrão de sono durante todas as 12 semanas de dados que tenho.
@@ -171,6 +180,7 @@ Apesar de ter o HRV4Training, eu não fui muito afundo no app e nem no uso dos d
 
 <figure>
 <img src="/diario-corrida/hrv.png" width="800" height="300">
+<figcaption>Figura 9. Média móvel de 7 dias dos dados de HRV diários. Achei que essa forma de visualizar facilitava o entendimento do gráfico no geral.</figcaption>
 </figure>
 
 Como interpretar os dados acima? Basicamente, um decréscimo no rMSSD significa que não estamos recuperados o suficiente ainda, o nível de stress está muito alto. Quando isso ocorre, o HRV4Training recomenda para maneirar durante o dia ou realmente descansar.
@@ -189,6 +199,7 @@ Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a a
 
 <figure>
 <img src="/diario-corrida/carga_rmssd.png" width="800" height="300">
+<figcaption>Figura 10. Média semanal os dados de HRV diários.</figcaption>
 </figure>
 
 Esse gráfico são as médias semanais, diferente da média móvel anterior, e de fato é possível observar o aumento da carga de treino quando o rMSSD cai em Março.
@@ -202,6 +213,7 @@ Vamos dar uma olhada no gráfico de _Fitness_ agora.
 
 <figure>
 <img src="/diario-corrida/fitness.png" width="900" height="400">
+<figcaption>Figura 11. A curva azul é o Fitness.</figcaption>
 </figure>
 
 A curva azul é o Fitness, e nos mostra pequenos incrementos semana após semana. Legal.
@@ -210,6 +222,7 @@ A curva roxa é a _Fadiga_. Dá para perceber que em alguns momentos o volume ab
 
 <figure>
 <img src="/diario-corrida/fitness_fadiga.png" width="900" height="400">
+<figcaption>Figura 12. Olha o cansaço ai!</figcaption>
 </figure>
 
 
@@ -225,6 +238,7 @@ Em diversos videos eu ouvi falarem sobre "remover a fadiga e fazer o fitness apa
 
 <figure>
 <img src="/diario-corrida/full_form.png" width="900" height="200">
+<figcaption>Figura 13. Forma</figcaption>
 </figure>
 
 Eu sei, eu sei, não dá para ler nada. Mas esse gráfico mostra que no começo do ciclo eu estava PÉSSIMO!!! E por que? Eu fiz 2 meias maratonas em 1 semana. A estrada velha de santos me destruiu e depois a meia maratona do final de ano colocou a cereja no bolo com um RP.
@@ -233,6 +247,7 @@ Demorou um pouco para o corpo se recuperar dessas duas corridas com o ciclo de m
 
 <figure>
 <img src="/diario-corrida/clip_form.png" width="900" height="200">
+<figcaption>Figura 14. Foco na Forma</figcaption>
 </figure>
 
 Ok. Agora sim. Olha que coisa interessante. **SOMENTE** nos 2 dias **ANTES** da
@@ -256,6 +271,7 @@ treino) para classificar o tipo de treinamento que você executou.
 
 <figure>
 <img src="/diario-corrida/estilo_treino.png" width="700" height="400">
+<figcaption>Figura 15. Essa categorização é interessante. Eu também escolhi utilizar o **PACE** *sem* correção de altimetria como principal métrica para analisar todos os meus dados. A melhor alternativa talvez fosse a potência, mas eu utilizei relógios diferentes durante o ciclo. Caso eu tivesse um STRYD faria sentido usar a potencia. A frequência cardíaca eu estou usando para quase nada mais, não acho um dado útil.</figcaption>
 </figure>
 
 O estilo de treino do meu ciclo inteiro foi "Base". O foco foram zonas de treino
