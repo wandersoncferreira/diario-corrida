@@ -142,6 +142,15 @@ A prova foi dia 6 de abril e logo depois, meu prêmio chegou.. hehe bastante din
 
 ## Sono
 
+<figure>
+<img src="/sono.png" width="800" height="400">
+</figure>
+
+### HRV rMSSD
+
+<figure>
+<img src="/hrv.png" width="800" height="400">
+</figure>
 
 ## Fitness .. o que realmente importa :)
 
@@ -192,14 +201,6 @@ que eu ficaria me sentindo uma ameba no dia da prova.
 De fato melhorou bastante nos dias seguintes, mas eu fiquei preocupado e comecei a ir para a academia fazer musculação só para manter o corpo ativo. Nada pesado.
 
 Perceba que a prova levou a minha FORMA do "FRESH" para o "HIGH RISK" em 3h e 19 minutos.
-
-
-### HRV rMSSD
-
-<figure>
-<img src="/hrv.png" width="800" height="400">
-</figure>
-
 
 
 ## Estilo de Treino e próximos passos
