@@ -173,16 +173,18 @@ A prova foi dia 6 de abril e logo depois, meu prêmio chegou.. hehe bastante din
 
 Eu tenho quadros de insônia com frequência, porém durante o ciclo eu dormir
 razoavelmente bem. Foi uma média entre 6 horas e meia e 7 horas de sono por
-semana. Uma parte consideravel disso é devido ao sono do sabádo para o domingo.
+dia. Uma parte consideravel disso é devido ao sono do sabádo para o domingo.
 
 <figure>
 <img src="/diario-corrida/sono.png" width="900" height="300">
 <figcaption>Figura 9. Distribuição dos dados de sono calculados pelo COROS Pace 3.</figcaption>
 </figure>
 
-Mas o interessante é que não houve nenhuma alteração significativa no padrão de sono durante todas as 12 semanas de dados que tenho.
+Mas o interessante é que não houve nenhuma alteração significativa no padrão de
+sono durante todas as 12 semanas de dados que tenho.
 
-Vou falar um pouco sobre a métrica de rMSSD que cai abruptamente durante a fase de treino específico.
+Vou falar um pouco sobre a métrica de rMSSD que cai abruptamente durante a fase
+de treino específico.
 
 ### HRV rMSSD
 
