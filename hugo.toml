@@ -93,4 +93,4 @@ url = "/index.xml"
 
 [services]
   [services.disqus]
-    shortname = 'shumala'
+    shortname = 'diario-de-corrida'
