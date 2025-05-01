@@ -264,7 +264,9 @@ A curva roxa é a _Fadiga_. Dá para perceber que em alguns momentos o volume ab
 Além disso, o gráfico sobre a "FORMA" também é muito interessante. Tem uma definição no Intervals.icu que explica bem como analisar essa variável.
 
 > FORMA é FITNESS menos FADIGA.
+>
 > Para ganhar FITNESS nós precisamos criar STRESS aumentando a carga de treino e isso resulta em uma FORMA NEGATIVA
+> 
 > Porém, reduzir a carga de treino é importante para se recuperar e para performar na corrida.
 
 Em diversos videos eu ouvi falarem sobre "remover a fadiga e fazer o fitness aparecer" no dia da corrida. Esse é o real objetivo da fase de **polimento**. Portanto, o gráfico de FORMA é uma boa maneira de identificar se conseguimos "remover a fadiga" sem perder muito fitness.
