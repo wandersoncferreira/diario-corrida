@@ -24,7 +24,7 @@ Nessa retrospectiva quero analisar os dados do meu ciclo através da plataforma
 ## Premissas
 
 Eu fiz o exame ergoespirométrico no inicio do ciclo para definir as minhas zonas
-de treino na Sport Ultra com o Dr. Danilo Prado.
+de treino na [Sport Ultra](https://www.ultrass.com.br/fisiologiaultra) com o Dr. Danilo Prado.
 
 Utilizei esses dados para ajustar o TrainingPeaks:
 
@@ -33,7 +33,7 @@ Utilizei esses dados para ajustar o TrainingPeaks:
 <figcaption>Figura 1. Zonas de treino definidas no Ergoespirométrico.</figcaption>
 </figure>
 
-Porém, durante o teste de 3K da EQPerformance, eu fiz uma média bem controlada
+Porém, durante o teste de 3K da [EQPerformance](https://eqperformance.com.br/), eu fiz uma média bem controlada
 de 4:00/km para o limiar. E como foram valores próximos, eu mantive o da EQ para
 seguir o processo deles. Mas, tentei fazer os longos próximo do meu limite
 aeróbico em um pace de 5:00/km, a maioria ficou em 5:10/km.
@@ -133,20 +133,38 @@ Importante ressaltar que nos dias que eu tentei fazer algum exercício e tive mu
 
 ## Peso
 
-Essa parte foi complicada.
+Essa parte foi complicada. Eu tenho um intestino de vidro e a Nutricionista
+Roberta com a Dra Paula da [Liti](https://www.liti.com.br/) tiveram que fazer milagre.
 
 <figure>
 <img src="/diario-corrida/peso.png" width="700" height="400">
 <figcaption>Figura 7. No app da Liti eu tenho mais informações sobre o plano alimentar. Também tentei utilizar o app MyFitnessPal em algumas semanas que eu quis entender melhor o que eu estava comendo e causando problemas intestinais. Mas no fim do dia, o peso ajuda a resumir as coisas.</figcaption>
 </figure>
 
-Eu comecei o ciclo com **78KG** e eu queria emagrecer durante o processo. Eu fiz uma dieta junto com a Roberta da Liti e tentei seguir o melhor possível dentro da realidade.
+Eu comecei o ciclo com **78KG** e eu queria emagrecer durante o processo. Eu fiz
+uma dieta junto com a Roberta da Liti e tentei
+seguir o melhor possível dentro da realidade.
 
-Correr em déficit calórico é péssimo. Bastante sono a tarde, falta de energia durante a fase final de alguns treinos, etc. Não recomendo.
+Correr em déficit calórico é péssimo. Bastante sono a tarde, falta de energia
+durante a fase final de alguns treinos, etc. Não recomendo.
 
-Olhando as curvas acima, o peso foi caindo aos poucos até a semana de carb loading. Eu cheguei a pesar **73.4KG** em algum dia da fase específica do ciclo.
+Olhando as curvas acima, o peso foi caindo aos poucos até a semana de carb
+loading. Eu cheguei a pesar **73.4KG** em algum dia da fase específica do ciclo.
 
-Os dados da fase de carb loading não são acurados porque eu decidi não me pesar. A Roberta me falou que era normal ganhar alguns kilos nessa etapa por causa da agua que fica capturada junto com o carboidrato. Porém, mentalmente eu não queria pensar "você está mais pesado, tem que ajustar as coisas agora.". Ótima decisão.
+Também é interessante observar o percentual de gordura. Eu fiz alguns testes
+entre os valores mostrados pela Liti e a bioimpedância da Inbody no passado e os
+valores absolutos não são relevantes, devemos considerar apenas as tendências.
+
+<figure>
+<img src="/diario-corrida/gordura.jpeg" width="420" height="350">
+<figcaption>Figura 8. Percentual de gordura calculado todos os dias pela manhã antes de sair para o treino.</figcaption>
+</figure>
+
+Os dados da fase de carb loading não são acurados porque eu decidi não me pesar.
+A Roberta me falou que era normal ganhar alguns kilos nessa etapa por causa da
+agua que fica capturada junto com o carboidrato. Porém, mentalmente eu não
+queria pensar "você está mais pesado, tem que ajustar as coisas agora.". Ótima
+decisão.
 
 A prova foi dia 6 de abril e logo depois, meu prêmio chegou.. hehe bastante dinheiro perdido na padaria :)
 
@@ -159,7 +177,7 @@ semana. Uma parte consideravel disso é devido ao sono do sabádo para o domingo
 
 <figure>
 <img src="/diario-corrida/sono.png" width="900" height="300">
-<figcaption>Figura 8. Distribuição dos dados de sono calculados pelo COROS Pace 3.</figcaption>
+<figcaption>Figura 9. Distribuição dos dados de sono calculados pelo COROS Pace 3.</figcaption>
 </figure>
 
 Mas o interessante é que não houve nenhuma alteração significativa no padrão de sono durante todas as 12 semanas de dados que tenho.
@@ -180,7 +198,7 @@ Apesar de ter o HRV4Training, eu não fui muito afundo no app e nem no uso dos d
 
 <figure>
 <img src="/diario-corrida/hrv.png" width="800" height="300">
-<figcaption>Figura 9. Média móvel de 7 dias dos dados de HRV diários. Achei que essa forma de visualizar facilitava o entendimento do gráfico no geral.</figcaption>
+<figcaption>Figura 10. Média móvel de 7 dias dos dados de HRV diários. Achei que essa forma de visualizar facilitava o entendimento do gráfico no geral.</figcaption>
 </figure>
 
 Como interpretar os dados acima? Basicamente, um decréscimo no rMSSD significa que não estamos recuperados o suficiente ainda, o nível de stress está muito alto. Quando isso ocorre, o HRV4Training recomenda para maneirar durante o dia ou realmente descansar.
@@ -199,7 +217,7 @@ Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a a
 
 <figure>
 <img src="/diario-corrida/carga_rmssd.png" width="800" height="300">
-<figcaption>Figura 10. Média semanal os dados de HRV diários.</figcaption>
+<figcaption>Figura 11. Média semanal os dados de HRV diários.</figcaption>
 </figure>
 
 Esse gráfico são as médias semanais, diferente da média móvel anterior, e de
@@ -229,7 +247,7 @@ Vamos dar uma olhada no gráfico de _Fitness_ agora.
 
 <figure>
 <img src="/diario-corrida/fitness.png" width="900" height="400">
-<figcaption>Figura 11. A curva azul é o Fitness.</figcaption>
+<figcaption>Figura 12. A curva azul é o Fitness.</figcaption>
 </figure>
 
 A curva azul é o Fitness, e nos mostra pequenos incrementos semana após semana. Legal.
@@ -238,7 +256,7 @@ A curva roxa é a _Fadiga_. Dá para perceber que em alguns momentos o volume ab
 
 <figure>
 <img src="/diario-corrida/fitness_fadiga.png" width="900" height="400">
-<figcaption>Figura 12. Olha o cansaço ai!</figcaption>
+<figcaption>Figura 13. Olha o cansaço ai!</figcaption>
 </figure>
 
 
@@ -254,7 +272,7 @@ Em diversos videos eu ouvi falarem sobre "remover a fadiga e fazer o fitness apa
 
 <figure>
 <img src="/diario-corrida/full_form.png" width="900" height="200">
-<figcaption>Figura 13. Forma</figcaption>
+<figcaption>Figura 14. Forma</figcaption>
 </figure>
 
 Eu sei, eu sei, não dá para ler nada. Mas esse gráfico mostra que no começo do ciclo eu estava PÉSSIMO!!! E por que? Eu fiz 2 meias maratonas em 1 semana. A estrada velha de santos me destruiu e depois a meia maratona do final de ano colocou a cereja no bolo com um RP.
@@ -263,7 +281,7 @@ Demorou um pouco para o corpo se recuperar dessas duas corridas com o ciclo de m
 
 <figure>
 <img src="/diario-corrida/clip_form.png" width="900" height="200">
-<figcaption>Figura 14. Foco na Forma</figcaption>
+<figcaption>Figura 15. Foco na Forma</figcaption>
 </figure>
 
 Ok. Agora sim. Olha que coisa interessante. **SOMENTE** nos 2 dias **ANTES** da
@@ -287,7 +305,7 @@ treino) para classificar o tipo de treinamento que você executou.
 
 <figure>
 <img src="/diario-corrida/estilo_treino.png" width="700" height="400">
-<figcaption>Figura 15. Essa categorização é interessante. Eu também escolhi utilizar o **PACE** *sem* correção de altimetria como principal métrica para analisar todos os meus dados. A melhor alternativa talvez fosse a potência, mas eu utilizei relógios diferentes durante o ciclo. Caso eu tivesse um STRYD faria sentido usar a potencia. A frequência cardíaca eu estou usando para quase nada mais, não acho um dado útil.</figcaption>
+<figcaption>Figura 16. Essa categorização é interessante. Eu também escolhi utilizar o **PACE** *sem* correção de altimetria como principal métrica para analisar todos os meus dados. A melhor alternativa talvez fosse a potência, mas eu utilizei relógios diferentes durante o ciclo. Caso eu tivesse um STRYD faria sentido usar a potencia. A frequência cardíaca eu estou usando para quase nada mais, não acho um dado útil.</figcaption>
 </figure>
 
 O estilo de treino do meu ciclo inteiro foi "Base". O foco foram zonas de treino
