@@ -3,6 +3,7 @@ languageCode = 'pt-BR'
 title = 'Corrida'
 theme = "ink-free"
 copyright = "© Copyright Wand's efforts"
+googleAnalytics = "G-049094WL7N"
 
 [markup.goldmark.renderer]
 unsafe= true
@@ -89,3 +90,7 @@ url = "/index.xml"
     endLevel = 3
     ordered = true
     startLevel = 2
+
+[services]
+  [services.disqus]
+    shortname = 'shumala'
