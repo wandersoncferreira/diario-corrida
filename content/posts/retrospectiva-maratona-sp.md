@@ -202,7 +202,23 @@ Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a a
 <figcaption>Figura 10. Média semanal os dados de HRV diários.</figcaption>
 </figure>
 
-Esse gráfico são as médias semanais, diferente da média móvel anterior, e de fato é possível observar o aumento da carga de treino quando o rMSSD cai em Março.
+Esse gráfico são as médias semanais, diferente da média móvel anterior, e de
+fato é possível observar o aumento da carga de treino quando o rMSSD cai em
+Março.
+
+
+> **NOTA:** Eu achei estranho essa queda do mês de Março tão abruptamente e
+> passei a refletir mais sobre a minha percepção de esforço dessa epoca. De
+> fato, me sentia muito mais cansado, porém não era o fim do mundo. Lembrei de
+> uma coisa importante: 
+>
+> Em Março o meu relógio COROS Pace 3 morreu e eu comprei um Garmin Fenix 6 usado. 
+>
+> As medidas das primeiras 3 semanas de março são do Garmin. Isso explica o shift porque cada equipamento deve ter uma metodologia e os valores absolutos dessa medida não são relevantes e sim as tendências.
+>
+> **PORÉM**, mesmo assim é possível observar uma queda *dentro* do mês de março
+> que ainda valida a análise anterior.
+
 
 Para o próximo ciclo pretendo utilizar o app HRV4Training e ver as métricas e sugestões diárias que ele vai reportar.
 
