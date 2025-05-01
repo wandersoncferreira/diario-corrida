@@ -196,16 +196,23 @@ entre cada batimento cardíaco.
 
 Existe um guia mais profundo [aqui](https://www.hrv4training.com/quickstart-guide.html) explicando como utilizar e interpretar essas medidas.
 
-Apesar de ter o HRV4Training, eu não fui muito afundo no app e nem no uso dos dados no site deles, então as medidas que tenho são do COROS e representam o HRV medido durante a noite, ou seja, reflete o estado que meu corpo estava enquanto se recuperava das porradas do dia anterior. :)
+Apesar de ter o HRV4Training, eu não fui muito afundo no app e nem no uso dos
+dados no site deles, então as medidas que tenho são do COROS e representam o HRV
+medido durante a noite, ou seja, reflete o estado que meu corpo estava enquanto
+se recuperava das porradas do dia anterior. :)
 
 <figure>
 <img src="/diario-corrida/hrv.png" width="800" height="300">
 <figcaption>Figura 10. Média móvel de 7 dias dos dados de HRV diários. Achei que essa forma de visualizar facilitava o entendimento do gráfico no geral.</figcaption>
 </figure>
 
-Como interpretar os dados acima? Basicamente, um decréscimo no rMSSD significa que não estamos recuperados o suficiente ainda, o nível de stress está muito alto. Quando isso ocorre, o HRV4Training recomenda para maneirar durante o dia ou realmente descansar.
+Como interpretar os dados acima? Basicamente, um decréscimo no rMSSD significa
+que não estamos recuperados o suficiente ainda, o nível de stress está muito
+alto. Quando isso ocorre, o HRV4Training recomenda para maneirar durante o dia
+ou realmente descansar.
 
-Esses dados acima são médias móveis para facilitar a visualização, então contém um pouco de delay com relação ao que estava ocorrendo durante os treinos.
+Esses dados acima são médias móveis para facilitar a visualização, então contém
+um pouco de delay com relação ao que estava ocorrendo durante os treinos.
 
 Interessante notar que a primeira queda no rMSSD foi em Fevereiro 16th e talvez
 esteja associada a diminuição nas horas de sono daquelas semanas como mostra a linha azul do gráfico.
@@ -215,7 +222,8 @@ Bem significativa a queda no parametro. Condiz bem com a realidade da época,
 essa fase eu estava já bem cansado dos volumes altos e iniciando os treinos de
 intensidade.
 
-Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a acréscimo na carga de treino. Vamos ver se essa correlação faz sentido aqui.
+Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a
+acréscimo na carga de treino. Vamos ver se essa correlação faz sentido aqui.
 
 <figure>
 <img src="/diario-corrida/carga_rmssd.png" width="800" height="300">
@@ -223,8 +231,8 @@ Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a a
 </figure>
 
 Esse gráfico são as médias semanais, diferente da média móvel da Figura 10, e de
-fato é possível observar o aumento da carga de treino quando o rMSSD cai em
-Março.
+fato é possível observar o aumento da carga de treino (curva verde) quando o
+rMSSD cai em Março.
 
 > **NOTA:** Eu achei estranho essa queda do mês de Março tão abruptamente e
 > passei a refletir mais sobre a minha percepção de esforço dessa epoca. De
