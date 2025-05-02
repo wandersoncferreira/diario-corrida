@@ -5,3 +5,6 @@ description: ""
 draft: true
 tags: ["treino", "métricas"]
 ---
+
+
+Falar sobre a métrica 30s GAP
