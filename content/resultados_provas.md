@@ -11,12 +11,17 @@ type: "page"
 <b>Tempo:</b> 3h19min<br>
 <br>
 <b>Destaque:</b><br>
-Meus batimentos estavam bem controlados, fiquei no topo de Z2 a prova inteira. Porém, eu senti bastante dor muscular nos 5km finais da prova. Quadriceps, glúteos e solas dos pés foram os principais.
+Meus batimentos estavam bem controlados, fiquei no topo de Z2 a prova inteira.
+Porém, eu senti bastante dor muscular nos 5km finais da prova. Quadriceps,
+glúteos e solas dos pés foram os principais.
+
+Presenciei o famoso: 30km correndo com as pernas, 10km com a sua cabeça, 2km com
+o seu coração e 195m com suas lágrimas.
 <br>
 <br>
 <b>Comentários Gerais:</b><br>
 <br>
-TODO
+São muitas negociações com você mesmo durante a prova.
 </span>
 </div>
 
@@ -64,12 +69,18 @@ TODO
 <b>Tempo:</b> 1:09:18s<br>
 <br>
 <b>Destaque:</b><br>
-TODO
+Moradores de rua acordando embaixo da ponte com um monte de gente de roupa curta
+e apertada, alguns deles gritaram "Meu Deus, quanta mulher bonita, morri e estou
+no céu?"
 <br>
 <br>
 <b>Comentários Gerais:</b><br>
 <br>
-TODO
+Não gostei da prova quando juntou todas as distâncias. Muita gente, precisei
+ficar pulando o canteiro central para encontrar espaço.
+
+Foi a primeira prova que eu fiz que não foi um *loop*. Sair do ponto A e chegar
+ao ponto B, onde B != A é bem legal :)
 </span>
 </div>
 

@@ -173,16 +173,18 @@ A prova foi dia 6 de abril e logo depois, meu prêmio chegou.. hehe bastante din
 
 Eu tenho quadros de insônia com frequência, porém durante o ciclo eu dormir
 razoavelmente bem. Foi uma média entre 6 horas e meia e 7 horas de sono por
-semana. Uma parte consideravel disso é devido ao sono do sabádo para o domingo.
+dia. Uma parte consideravel disso é devido ao sono do sabádo para o domingo.
 
 <figure>
 <img src="/diario-corrida/sono.png" width="900" height="300">
 <figcaption>Figura 9. Distribuição dos dados de sono calculados pelo COROS Pace 3.</figcaption>
 </figure>
 
-Mas o interessante é que não houve nenhuma alteração significativa no padrão de sono durante todas as 12 semanas de dados que tenho.
+Mas o interessante é que não houve nenhuma alteração significativa no padrão de
+sono durante todas as 12 semanas de dados que tenho.
 
-Vou falar um pouco sobre a métrica de rMSSD que cai abruptamente durante a fase de treino específico.
+Vou falar um pouco sobre a métrica de rMSSD que cai abruptamente durante a fase
+de treino específico.
 
 ### HRV rMSSD
 
@@ -194,16 +196,23 @@ entre cada batimento cardíaco.
 
 Existe um guia mais profundo [aqui](https://www.hrv4training.com/quickstart-guide.html) explicando como utilizar e interpretar essas medidas.
 
-Apesar de ter o HRV4Training, eu não fui muito afundo no app e nem no uso dos dados no site deles, então as medidas que tenho são do COROS e representam o HRV medido durante a noite, ou seja, reflete o estado que meu corpo estava enquanto se recuperava das porradas do dia anterior. :)
+Apesar de ter o HRV4Training, eu não fui muito afundo no app e nem no uso dos
+dados no site deles, então as medidas que tenho são do COROS e representam o HRV
+medido durante a noite, ou seja, reflete o estado que meu corpo estava enquanto
+se recuperava das porradas do dia anterior. :)
 
 <figure>
 <img src="/diario-corrida/hrv.png" width="800" height="300">
 <figcaption>Figura 10. Média móvel de 7 dias dos dados de HRV diários. Achei que essa forma de visualizar facilitava o entendimento do gráfico no geral.</figcaption>
 </figure>
 
-Como interpretar os dados acima? Basicamente, um decréscimo no rMSSD significa que não estamos recuperados o suficiente ainda, o nível de stress está muito alto. Quando isso ocorre, o HRV4Training recomenda para maneirar durante o dia ou realmente descansar.
+Como interpretar os dados acima? Basicamente, um decréscimo no rMSSD significa
+que não estamos recuperados o suficiente ainda, o nível de stress está muito
+alto. Quando isso ocorre, o HRV4Training recomenda para maneirar durante o dia
+ou realmente descansar.
 
-Esses dados acima são médias móveis para facilitar a visualização, então contém um pouco de delay com relação ao que estava ocorrendo durante os treinos.
+Esses dados acima são médias móveis para facilitar a visualização, então contém
+um pouco de delay com relação ao que estava ocorrendo durante os treinos.
 
 Interessante notar que a primeira queda no rMSSD foi em Fevereiro 16th e talvez
 esteja associada a diminuição nas horas de sono daquelas semanas como mostra a linha azul do gráfico.
@@ -213,7 +222,8 @@ Bem significativa a queda no parametro. Condiz bem com a realidade da época,
 essa fase eu estava já bem cansado dos volumes altos e iniciando os treinos de
 intensidade.
 
-Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a acréscimo na carga de treino. Vamos ver se essa correlação faz sentido aqui.
+Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a
+acréscimo na carga de treino. Vamos ver se essa correlação faz sentido aqui.
 
 <figure>
 <img src="/diario-corrida/carga_rmssd.png" width="800" height="300">
@@ -221,8 +231,8 @@ Existe um estudo de caso no site do HRV4Training sobre queda no rMSSD devido a a
 </figure>
 
 Esse gráfico são as médias semanais, diferente da média móvel da Figura 10, e de
-fato é possível observar o aumento da carga de treino quando o rMSSD cai em
-Março.
+fato é possível observar o aumento da carga de treino (curva verde) quando o
+rMSSD cai em Março.
 
 > **NOTA:** Eu achei estranho essa queda do mês de Março tão abruptamente e
 > passei a refletir mais sobre a minha percepção de esforço dessa epoca. De
@@ -264,7 +274,9 @@ A curva roxa é a _Fadiga_. Dá para perceber que em alguns momentos o volume ab
 Além disso, o gráfico sobre a "FORMA" também é muito interessante. Tem uma definição no Intervals.icu que explica bem como analisar essa variável.
 
 > FORMA é FITNESS menos FADIGA.
+>
 > Para ganhar FITNESS nós precisamos criar STRESS aumentando a carga de treino e isso resulta em uma FORMA NEGATIVA
+> 
 > Porém, reduzir a carga de treino é importante para se recuperar e para performar na corrida.
 
 Em diversos videos eu ouvi falarem sobre "remover a fadiga e fazer o fitness aparecer" no dia da corrida. Esse é o real objetivo da fase de **polimento**. Portanto, o gráfico de FORMA é uma boa maneira de identificar se conseguimos "remover a fadiga" sem perder muito fitness.
